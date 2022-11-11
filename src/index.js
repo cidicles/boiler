@@ -1,3 +1,3 @@
-import "./style.sass";
+import './style.sass';
 
 console.log('Hai');
